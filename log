@@ -1,5 +1,0 @@
-<?php
-// PHP permanent URL redirection
-header("Location: https://ch123.bet/registration?refC=ASE74141", true, 301);
-exit();
-?>
